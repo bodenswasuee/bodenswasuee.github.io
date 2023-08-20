@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodenswasuee.github.io/sitemap.xml
